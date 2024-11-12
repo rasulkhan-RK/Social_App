@@ -1,0 +1,38 @@
+.app_container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.sidebar {
+  min-height: 900px;
+}
+.post {
+  margin: 30px auto;
+}
+.hashtag {
+  margin: 10px 5px;
+}
+.reaction {
+  margin: 30px 0 0;
+}
+.removeBtn {
+  cursor: pointer;
+}
+.create_post {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+.input_body {
+  resize: none;
+  overflow-y: auto;
+}
+.postImg {
+  width: 200px;
+  height: 250px;
+  object-fit: contain;
+  margin-top: 20px;
+  border-radius: 20%;
+  padding: 5px 10px;
+}
