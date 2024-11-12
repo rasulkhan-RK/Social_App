@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite (More priority =  Functioning)
 
 Features:
 
